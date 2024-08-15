@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guiandrew-pt, pt is for Portugal.
-- 👀 I’m interested in Swift and IOS Development.
-- 🌱 I’m currently learning Swift and IOS Development.
+- 👀 I’m interested in Web3 Development.
+- 🌱 I’m currently Solidity and JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
